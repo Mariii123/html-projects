@@ -120,3 +120,14 @@ span{
 i{
 	padding:10px;
 }
+input[type="email"]{
+	height:42px;
+	text-align:center;
+}
+.wrapper5 a{
+	color:white;
+	background:#000;
+	margin-left:20px;
+	padding:10px;
+	font-size:14px;
+}
